@@ -4,7 +4,7 @@
 local kata = {}
 
 function kata.count_chars(s)
-  local result = {};
+    local result = {};
     local function Insert(c) 
         if (result[c] == nil) then
             result[c] = 1;
