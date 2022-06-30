@@ -8,3 +8,4 @@ Source Of Each Kata With Kata-Link.
 2. [Mumbling](https://github.com/MrAliSalehi/Lua-Projects/blob/master/Kata/Kata-2.lua)
 3. [Two Oldest Ages](https://github.com/MrAliSalehi/Lua-Projects/blob/master/Kata/Kata-3.lua)
 4. [Remove anchor from URL](https://github.com/MrAliSalehi/Lua-Projects/blob/master/Kata/Kata-4.lua)
+5. [String ends with?](https://github.com/MrAliSalehi/Lua-Projects/blob/master/Kata/Kata-5.lua)
