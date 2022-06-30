@@ -1,0 +1,9 @@
+{
+    "tags": {
+        "advance": true,
+        "basic": false,
+        "intermediate": false,
+        "lua-check": false
+    },
+    "rules": {}
+}
