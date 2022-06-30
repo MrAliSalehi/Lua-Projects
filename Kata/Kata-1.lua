@@ -1,5 +1,10 @@
-function Test(s)
-    local result = {};
+--Kata Url : https://www.codewars.com/kata/52efefcbcdf57161d4000091
+--Solver : https://www.codewars.com/users/MrAliSalehi
+
+local kata = {}
+
+function kata.count_chars(s)
+  local result = {};
     local function Insert(c) 
         if (result[c] == nil) then
             result[c] = 1;
@@ -13,5 +18,4 @@ function Test(s)
     return result;
 end
 
-print(Test("aabvbbergrg"));
-Test("adb");
+return kata
