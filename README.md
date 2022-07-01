@@ -13,3 +13,4 @@ Source Of Each Kata Containing Kata-Link.
 5. [String ends with?](https://github.com/MrAliSalehi/Lua-Projects/blob/master/Kata/Kata-5.lua)
 6. [Your order, please](https://github.com/MrAliSalehi/Lua-Projects/blob/master/Kata/Kata-6.lua)
 7. [Word values](https://github.com/MrAliSalehi/Lua-Projects/blob/master/Kata/Kata-7.lua)
+8. [String matchup](https://github.com/MrAliSalehi/Lua-Projects/blob/master/Kata/Kata-7.lua)
